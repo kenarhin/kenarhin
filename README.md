@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Kenneth Arhinful (@kenarhin)
 
 ## 👀 I’m interested in:
-- Web development (WordPress & beyond)
+- Web development (WordPress, NextJs & beyond)
+- Backend development(Supabase, Cloudflare & beyond)
 - SEO strategies for high-traffic websites
 - FinTech innovations & digital payments
 - Tech trends, gadgets, and how-to guides
